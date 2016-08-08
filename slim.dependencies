@@ -5,9 +5,9 @@
     "branch":      "mm6.0"
   },
   {
-    "repository": "AICP/proprietary_vendor_motorola",
+    "repository": "purenexus-clark/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch":      "mm6.0"
+    "branch":      "mm2"
   },
   {
     "repository": "CyanogenMod/android_hardware_sony_thermanager",
